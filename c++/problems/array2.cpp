@@ -1,4 +1,6 @@
+//max number in the array
 #include<iostream>
+
 using namespace std;
 int main(){
     int number[]={23,423,532,52,432,45,4,523,4,462,49,363,36,234,63,634,234,43,23,534,5,543,40,47,34,};
